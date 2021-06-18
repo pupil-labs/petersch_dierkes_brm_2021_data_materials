@@ -1,0 +1,14 @@
+# Third-party
+msgpack>=1.0.0
+scipy
+numpy
+matplotlib
+pandas
+pyarrow
+joblib
+
+opencv-python
+
+# Pupil-Labs
+pupil-detectors==2.0.*
+pye3d
